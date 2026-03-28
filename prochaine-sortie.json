@@ -1,11 +1,11 @@
 
   {
-    "titre": "Aucune sortie de prévue",
-    "artiste": "-",
-    "date_sortie": "-",
-    "genre": "-",
-    "description": "-",
-    "cover_image": "https://www.morgannmusic.uk/assets/level-max-cover.jpg",
+    "titre": "Pas Simple",
+    "artiste": "Brooklyn & Morgann Music",
+    "date_sortie": "4 Avril 2026",
+    "genre": "French Pop",
+    "description": "Pas Simple de Brooklyn sort le 4 Avril avec Morgann Music !",
+    "cover_image": "https://github.com/Momo-music02/jsonmorgannmusic/blob/main/P.png",
     "plateformes": {
       "apple_music": "https://music.apple.com/fr/artist/morgann-music/1820890727",
       "spotify": "https://open.spotify.com/intl-fr/artist/0WJlJdaavSKPNoCSSHb8OC?si=iWMUCcMzTGiiWx-EI9pkpw",
@@ -13,7 +13,7 @@
       "youtube": "https://music.youtube.com/channel/UCsnyx7G0XZhbhFAND2HXLpg",
       "amazon_music": "https://music.amazon.fr/artists/B0FD43W4LJ/morgann-music?marketplaceId=A13V1IB3VIYZZH&musicTerritory=FR&ref=dm_sh_bLjoF76O6MbpavXAQXy5wR0Xk"
     },
-    "hashtags": ["#MorgannMusic", "#ProchaineSortie", "#LEVELMAX"]
+    "hashtags": ["#Brooklyn", "#MorgannMusic", "#ProchaineSortie", "#LEVELMAX"]
   }
 
 
